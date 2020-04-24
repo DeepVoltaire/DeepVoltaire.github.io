@@ -7,7 +7,7 @@ to solve the world's most pressing problems.
 
 ![Philip](images/pp.jpg)
 
-Say hi to philip@popien.net
+Say hi to me at philip@popien.net
 
 [Kaggle](https://www.kaggle.com/voltaire)
 
