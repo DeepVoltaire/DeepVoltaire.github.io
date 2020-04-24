@@ -1,7 +1,3 @@
-Hello and welcome to Philip's blog. 
+Welcome to my blog!
 
-![Image of fast.ai logo](images/logo.png)
-
-## This is a test
-
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+![Cats are the best](images/cat_in_bed.jpg)
