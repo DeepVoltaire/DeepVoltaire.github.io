@@ -42,7 +42,7 @@ Image.open('images/cat_photoshoot.jpg').resize((1665//4, 2048//4))
 
 
 
-![png](/images/blog_test_files/output_6_0.png)
+![png](../images/blog_test_files/output_6_0.png)
 
 
 
@@ -53,7 +53,7 @@ plt.plot([1,2]);
 ```
 
 
-![png](/images/blog_test_files/output_8_0.png)
+![png](../images/blog_test_files/output_8_0.png)
 
 
 ...and Pandas DataFrames, and much more!
